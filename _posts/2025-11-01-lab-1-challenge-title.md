@@ -15,7 +15,7 @@ toc: true
 This section covers terms such as shell, port, and web server. All these three play a role in the infosec space and also vulnerabilities that are common with web applications have been stated. It has covered the OWASP top ten vulnerabilities
 ## Approach
 
-1. I spawned a target using the HTB Parrot OS and opened the machine. I then wrote the command netcat 152.57.164.82 30700 which gave the banner.
+I spawned a target using the HTB Parrot OS and opened the machine. I then wrote the command netcat 152.57.164.82 30700 which gave the banner.
 
 ## Tools used
 
