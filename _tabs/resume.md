@@ -5,7 +5,7 @@ icon: fas fa-id-card
 order: 5
 ---
 
-[Download my CV (PDF)](/assets/files/cv.pdf)
+[Download my CV (PDF)](/assets/cv.pdf)
 
 ## Academic background
 
