@@ -1,28 +1,25 @@
 ---
-title: "Lab 1: [Challenge title]"
+title: "Lab 1: Getting Started"
 date: 2025-11-01 10:00:00 +0300
 categories: [Lab Challenges, Network]
-tags: [nmap, enumeration, tryhackme]
+tags: [nmap, enumeration, Hack The Box]
 toc: true
 ---
 
-**Platform:** [TryHackMe, Hack The Box or Cyber Shujaa lab]  
+**Platform:** Hack The Box  
 **Category:** [Network]  
-**Difficulty:** [Easy, medium or hard]
+**Difficulty:** Hard
 
 ## Problem statement
 
-[What the challenge asked you to do, in your own words. Example: find the hidden service on the target host and read the file it exposes.]
-
+This section covers terms such as shell, port, and web server. All these three play a role in the infosec space and also vulnerabilities that are common with web applications have been stated. It has covered the OWASP top ten vulnerabilities
 ## Approach
 
-1. [First step: what you checked and why.]
-2. [Second step: what you found and how you followed it up.]
-3. [Final step: how you got the result.]
+1. I spawned a target using the HTB Parrot OS and opened the machine. I then wrote the command netcat 152.57.164.82 30700 which gave the banner.
 
 ## Tools used
 
-`[Nmap]` `[Gobuster]` `[Burp Suite]`
+netcat
 
 ## Screenshots
 
@@ -38,5 +35,4 @@ _[Caption: what this screenshot shows.]_
 
 ## Key lessons learned
 
-- [A technical lesson, for example why the misconfiguration mattered.]
-- [What you would do differently next time.]
+Netcat can be used to determine which services are running on a particular port. As of this case it is SSH.
