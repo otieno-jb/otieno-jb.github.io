@@ -5,46 +5,34 @@ icon: fas fa-folder-open
 order: 6
 ---
 
-Work from my training and university studies.
+Work from my fellowship, internships and training.
 
 ---
 
-## [Project one title]
+## Protecting SACCO members' savings from fraud
 
-<!-- Add a screenshot: upload it to assets/img/projects/ then remove the arrows around the next line
-![Project one screenshot](/assets/img/projects/project1.png){: w="700" }
--->
+*Internet Society Fellowship Project, Bondo, Siaya County (in development)*
 
-[2 to 3 sentences: the problem, what you built and the result. Example: a home lab that scans a small network, finds open services and reports the risks.]
+A collaboration project to protect members' savings in three community SACCOs from fraud. I mapped the partners (SACCOs, county cooperative offices, SACCO unions, the Internet Society Kenya chapter and Kenya's national cyber incident response team), gave each a clear role, and designed a coordination structure with monthly check-ins, agreed response times and one shared log. Sustainability comes from a trained champion inside every SACCO, backed by confidentiality agreements, plain-language materials and a contingency plan if a partner withdraws.
 
-**Tools:** `[Nmap]` `[Python]` `[VirtualBox]`
-
-[Source on GitHub](https://github.com/your-username/project-one)
+**Skills:** `Stakeholder mapping` `Risk planning` `Data protection` `Programme management`
 
 ---
 
 ## [Project two title]
 
-<!--
-![Project two screenshot](/assets/img/projects/project2.png){: w="700" }
--->
+[Add a real project here: for example a Cyber Shujaa training project, a home lab, or your final-year project. In 2 to 3 sentences, give the problem, what you built or did, and the result.]
 
-[Describe the goal, your part in it (if it was a team project) and what you learned or achieved.]
+**Tools:** `[Tool]` `[Tool]` `[Tool]`
 
-**Tools:** `[Tool]` `[Language]` `[Platform]`
-
-[Source on GitHub](https://github.com/your-username/project-two)
+[Source on GitHub](https://github.com/otieno-jb)
 
 ---
 
 ## [Project three title]
 
-<!--
-![Project three screenshot](/assets/img/projects/project3.png){: w="700" }
--->
+[Add a third project. Work from your internships can count, for example the LAN/WAN and IP addressing configuration at Sam Oyugi Solutions, written up as a short project with what you set up and what you learned.]
 
-[Describe the goal, your approach and the outcome. University coursework and final-year projects count here too.]
+**Tools:** `[Tool]` `[Tool]` `[Tool]`
 
-**Tools:** `[Tool]` `[Language]` `[Platform]`
-
-[Source on GitHub](https://github.com/your-username/project-three)
+[Source on GitHub](https://github.com/otieno-jb)

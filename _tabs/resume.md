@@ -7,43 +7,68 @@ order: 5
 
 [Download my CV (PDF)](/assets/cv.pdf)
 
-## Academic background
+## Professional profile
 
-**[Cyber Shujaa cybersecurity training]**, Cyber Shujaa  
-*[2025 to present]*  
-[One line on what you are learning: networking, Linux, ethical hacking, SOC operations.]
+Results-driven Computer Science graduate with hands-on experience in IT support, networking and cybersecurity. Proficient in Windows and Linux environments, with grounding in systems security and in governance and policy. Proven communicator with a track record of delivering reliable technical support across multi-department settings.
 
-**[Bachelor of Science in Your Degree]**, [Your University]  
-*[Start year to end year]*  
-[Relevant units or final-year project. Add your class or GPA if you want to.]
+## Professional experience
 
-**[Kenya Certificate of Secondary Education]**, [Your School]  
-*[Year]*
+**Project Lead**, Internet Society Fellowship Project, Bondo, Siaya County  
+*In development*
 
-## Work experience
+- Developing a collaboration project to protect members' savings in three community SACCOs from fraud, approaching at least five SACCOs to secure three.
+- Mapped the partners (SACCOs, county cooperative offices, SACCO unions, the Internet Society Kenya chapter and Kenya's national cyber incident response team) and defined a clear role for each, including a trained champion inside every SACCO.
+- Designed the coordination structure: monthly check-ins, agreed response times and one shared log so no partner question goes unanswered.
+- Planned confidentiality agreements, plain-language materials and a contingency in case a partner withdraws.
 
-**[Job title or role]**, [Organisation]  
-*[Month Year to Month Year]*
+**Networking Intern**, Sam Oyugi Solutions, Kisumu  
+*Mar 2025 to May 2025*
 
-- [Achievement with a number or result, for example "Reduced ticket backlog by 30%".]
-- [A responsibility that shows a security or IT skill.]
+- Provided day-to-day IT and network support, maintaining high uptime across client infrastructure through proactive monitoring and rapid fault resolution.
+- Configured and maintained routers, switches and network devices; diagnosed hardware and software failures on Windows and Linux systems.
+- Supported client communication and technical onboarding, writing clear documentation for recurring issues.
+- Worked with engineers on structured cabling, IP addressing and LAN/WAN configuration projects.
 
-**[Internship, attachment or volunteering role]**, [Organisation]  
-*[Month Year to Month Year]*
+**IT Intern**, Maseno University e-Campus, Kisumu  
+*May 2024 to Jul 2024*
 
-- [What you did and what you learned.]
+- Managed student records in the university's Management Information System (MIS), keeping data accurate across academic databases.
+- Resolved hardware and software faults across departments, covering desktops, printers and peripheral devices.
+- Deployed and configured new software, ensuring systems met institutional compliance standards.
+- Generated performance reports identifying system inefficiencies; the findings were adopted into IT improvement workflows.
+- Coordinated with staff across departments to resolve technical issues.
 
-## Certifications
+## Education
 
-- **[Certification name]**, [Issuer], [Year]
-- **[Certification name]**, [Issuer], [Year]
-- **[In progress: certification name]**, [Issuer], expected [Year]
+**BSc. Computer Science**, Masinde Muliro University of Science and Technology  
+*Dec 2024*
+
+**Kenya Certificate of Secondary Education (KCSE)**, Maseno School  
+*Nov 2019*
+
+## Training and certifications
+
+**Security Analyst Program**, Cyber Shujaa  
+*In progress*
+
+Cybersecurity programme covering vulnerability assessment, penetration testing, SOC operations, incident response and digital forensics.
 
 ## Skills
 
 | Area | Skills |
 | --- | --- |
-| Security | [Vulnerability assessment, incident response basics, log analysis] |
-| Tools | [Nmap, Wireshark, Burp Suite, Kali Linux] |
-| Programming | [Python, Bash, HTML and CSS] |
-| Professional | [Report writing, teamwork, English and Swahili] |
+| Technical | Windows, Kali Linux, Ubuntu; LAN/WAN, TCP/IP, DNS, DHCP; network security, vulnerability assessment, SOC operations, incident response |
+| Research and reporting | Turning evidence into plain-language reports and guidance; performance reporting; documentation and reusable templates |
+| Digital rights and policy | Internet standards, infrastructure and governance; data protection and confidentiality |
+| Programme management | Measurable indicators, risk registers, contingency planning, trained champions and member-led networks |
+| Coordination | Stakeholder mapping, roles and timelines, partner check-ins, shared action and query logs |
+
+## Leadership and achievements
+
+- Captain, Kenya U-20 Rugby Team (2021 to 2022), leading the team to victory at the Barthes Cup 2021.
+- National-level rugby representative for Kabras Sugar RFC, Western Bulls RFC and Kisumu RFC.
+- Active member, Nondescripts Rugby Football Club (NRFC), Nairobi.
+
+## References
+
+Available on request.
